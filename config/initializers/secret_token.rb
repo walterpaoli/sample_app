@@ -1,0 +1,7 @@
+# Be sure to restart your server when you modify this file.
+
+# Your secret key for verifying the integrity of signed cookies.
+# If you change this key, all old signed cookies will become invalid!
+# Make sure the secret is at least 30 characters and all random,
+# no regular words or you'll be exposed to dictionary attacks.
+SampleApp::Application.config.secret_token = '4f0f2a69bb4ce4b4ece7ca77d9a29706ab14c481471e9c6ec864a0895071403e6eecc8bdf57ffb4330b48d37405563b7c46091df97cc1bb5a0ec6fce57fbf969'
